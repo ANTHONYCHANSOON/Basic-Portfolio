@@ -1,4 +1,247 @@
-th.column1
-{
-    background-color: aqua;
+#wrapper{
+    padding: 0;
+    /* margin: auto; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color : #777777;
+    background: lightgray;
+    height:1000px;
+    margin:0px;
+}
+
+#header{
+    margin:auto;
+    background: white;
+    text-align: center;
+    /* background: #ffffff;
+    background-color: #ffffff; */
+    /* width:960px; */
+    height:70px;
+    margin-top:0px;
+    margin-bottom:20px;
+    width : 960px;
+}
+#name{
+    background-color: #4aaaa5;
+    color: white;
+    float:left;
+    padding-left: 20px;
+    padding-right: 20px;
+    height:30px;
+    text-align: center;
+    padding: 20px;
+    
+}
+#link3{
+    float:right;
+    color:black;
+    padding :20px;
+}
+#link2{
+    float:right;
+    color:black;
+    padding :20px;
+}
+#link1{
+    float:right;
+    color:black;
+    padding :20px;
+}
+#aboutmeparagraph{
+    
+    width:920px;
+    margin:auto;
+    background: white;
+    clear:both;
+    padding-bottom: 40px;
+    padding:20px;
+    margin-bottom:20px;
+    /* height:520px;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 24px;
+    padding:20px;
+    width:960px; */
+}
+#aboutme {
+    color : #4aaaa5;
+    padding : 20px;
+    width: 200px;
+    font-size: 20px;
+    font-style: bold;
+    margin-bottom: 10px;
+}
+#profilepic {
+    width : 150px;
+    height : 150px;
+    float:left;
+    margin-right: 10px;
+}
+#paragraph1{
+    margin-bottom: 30px;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    padding :0px;
+    width:100%;
+}
+#greenline {
+    margin-top : 10px;
+    border : 5px solid#4aaaa5;
+    padding :0px;
+    margin : 0px;
+}
+#copyright{
+    margin:center;
+    background : gray;
+    text-align: center;
+    color:white;
+    padding: 0PX;
+    padding-top: 0PX;
+    height : 20px;
+    margin: 0px;
+}
+#contactandboxes{
+    /* margin:auto;
+    background: white;
+    text-align: left;
+    /* background: #ffffff;
+    background-color: #ffffff; */
+    /* width:960px; */
+    /* height:70px; */
+    /* margin-top:0px;
+    margin-bottom:20px;
+    width : 960px; */ 
+
+    width:920px;
+    margin:auto;
+    background: white;
+    clear:both;
+    padding-bottom: 40px;
+    padding:20px;
+    margin-bottom:20px;
+}
+#Contact{
+    color : #4aaaa5;
+    padding : 20px;
+    width: 200px;
+    font-size: 20px;
+    font-style: bold;
+}
+#contactname{
+    
+}
+#namebox{
+    float:left;
+}
+#Email{
+    clear:both;
+}
+#emailbox{
+    float:left;
+}
+#message{
+    clear:both;
+}
+#messagebox{
+    float:left;
+    padding-bottom: 20px;
+}
+#button{
+    clear:both;
+}
+#portpics{
+    width:920px;
+    margin:auto;
+    background: white;
+    clear:both;
+    padding-bottom: 40px;
+    padding:20px;
+    height: 700px;
+    margin-bottom:20px;
+}
+#Portfolio{
+    color : #4aaaa5;
+    padding : 20px;
+    width: 200px;
+    font-size: 20px;
+    font-style: bold;
+}
+#pic1{
+    float:left;
+    width : 150px;
+    height : 150px;
+    padding : 20px;
+    
+}
+#pic2{
+    float:left;
+    width : 150px;
+    height : 150px;
+    padding : 20px;
+}
+#pic3{
+    clear: both;
+    float: left;
+    width : 150px;
+    height : 150px;
+    padding : 20px;
+}
+#pic4{
+    float: left;
+    width : 150px;
+    height : 150px;
+    padding : 20px;
+}
+#pic5{
+    clear: both;
+    float: left;
+    width : 150px;
+    height : 150px;
+    padding : 20px;
+}
+#textpic1{
+    position: absolute;
+    top:300px;
+    left:320px;
+    background-color: #4aaaa5;
+    color: white;
+    width:150px;
+    text-align: center;
+}
+#textpic2{
+    position: absolute;
+    top:300px;
+    left:510px;
+    background-color: #4aaaa5;
+    color: white;
+    width:150px;
+    text-align: center;
+}
+#textpic3{
+    position: absolute;
+    top:490px;
+    left:320px;
+    background-color: #4aaaa5;
+    color: white;
+    width:150px;
+    text-align: center;
+}
+#textpic4{
+    position: absolute;
+    top:490px;
+    left:510px;
+    background-color: #4aaaa5;
+    color: white;
+    width:150px;
+    text-align: center;
+}
+#textpic5{
+    position: absolute;
+    top:685px;
+    left:320px;
+    background-color: #4aaaa5;
+    color: white;
+    width:150px;
+    text-align: center;
 }
